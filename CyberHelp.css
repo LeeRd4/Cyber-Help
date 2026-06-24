@@ -17,8 +17,8 @@
     .wrap-monster {
         background-color: #343d46;
         display: flex;
-        width: 800px;
-        height: 900px;
+        width: 40%;
+        height: 90%;
         margin: auto;
         padding: 30px;
         border-radius: 10px;
